@@ -1,1 +1,1 @@
-# Sudoku pygame
+# SUDOKU using pygame
